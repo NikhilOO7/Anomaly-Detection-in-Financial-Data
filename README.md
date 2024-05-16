@@ -1,7 +1,3 @@
-Sure, here's a README file for the "Anomaly Detection in Financial Data" project:
-
----
-
 # Anomaly Detection in Financial Data
 
 This repository contains a Jupyter Notebook that demonstrates data preprocessing and anomaly detection techniques on financial data. The goal is to identify anomalies that could indicate fraudulent activities or errors in financial transactions.
@@ -69,8 +65,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-Feel free to customize this README file as per your specific requirements!
+Distributed under the MIT License.
